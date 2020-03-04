@@ -1,16 +1,16 @@
 {
   "private": false,
-  "name": "gatsby-source-prismic-graphql",
+  "name": "@digitaliseringsbyran/gatsby-source-prismic-graphql",
   "description": "Source data from Prismic with GraphQL",
   "license": "MIT",
   "author": "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>",
-  "homepage": "https://github.com/birkir/gatsby-source-prismic-graphql#readme",
+  "homepage": "https://github.com/Digitaliseringsbyran/gatsby-source-prismic-graphql#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/birkir/gatsby-source-prismic-graphql.git"
+    "url": "git+https://github.com/Digitaliseringsbyran/gatsby-source-prismic-graphql.git"
   },
   "bugs": {
-    "url": "https://github.com/birkir/gatsby-source-prismic-graphql/issues"
+    "url": "https://github.com/Digitaliseringsbyran/gatsby-source-prismic-graphql/issues"
   },
   "version": "3.5.0",
   "main": "index.js",
